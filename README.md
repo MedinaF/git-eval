@@ -8,14 +8,6 @@ A quoi sert Git ? Git est un logiciel de versioning qui permet d'avoir plusieurs
 
 
 
-
-
-
-
-
-
-
-
 ## Les différents outils et services liés à git :
 - GitHub
 - GitLab
