@@ -5,3 +5,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis accumsan du
 Praesent ultricies tortor nec magna pretium consequat. Aliquam ut erat a risus finibus tempor quis ut quam. Fusce sit amet ipsum tincidunt, rhoncus dui sed, accumsan dui. Fusce enim sapien, dictum eget dictum nec, luctus eget erat. Vestibulum vestibulum gravida ipsum, quis porttitor magna convallis ut.
 
 A quoi sert Git ? Git est un logiciel de versioning qui permet d'avoir plusieurs branches dans un projet.
+
+
+
+
+
+
+
+
+
+
+
+## Les différents outils et services liés à git :
+- GitHub
+- GitLab
+- Bitbucket
